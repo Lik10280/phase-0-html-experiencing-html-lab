@@ -78,7 +78,7 @@ Now we're going to create an HTML list together.
 4. Open the `my_list.html` file in the browser. For Mac users, you can do this
    with `open my_list.html`. For Windows users, you can do this in your Ubuntu
    app with `explorer.exe my_list.html`. Make sure you've
-   [set Chrome as your default browser](https://support.google.com/chrome/answer/95417?co=GENIE.Platform%3DDesktop&hl=en).
+   [set Chrome as your default browser][def].
 5. Hit enter to run the command.
 
 Once you've opened the file in the browser, you should see:
@@ -263,3 +263,6 @@ describe our content. We might be starting with lists today, but soon we'll be
 using HTML in even more exciting ways!
 
 Welcome to the community of web page creators!
+
+
+[def]: https://support.google.com/chrome/answer/95417?co=GENIE.Platform%3DDesktop&hl=en
